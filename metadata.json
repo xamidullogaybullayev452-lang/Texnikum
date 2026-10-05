@@ -1,0 +1,7 @@
+{
+  "name": "TestPlatform - Onlayn Test va Baholash Tizimi",
+  "description": "Maktab va o'quv markazlari uchun professional onlayn test platformasi. Telegram tasdiqlash, anti-cheat nazorati, offline himoya va avtomatik baholash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
